@@ -1,0 +1,9 @@
+#gl-canvas{
+	display: flex;
+	border: 2px solid;
+	margin: auto;
+}
+
+.container{
+	font-size: 11px;
+}
