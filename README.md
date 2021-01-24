@@ -5,6 +5,11 @@ CS-465 Computer Graphics - Programming Assignment 2
 Muhammed Musab Okşaş, ID: 21602984, 
 Doğukan Köse, ID: 21602375
 
+# Example Screenshot
+
+![alt text](https://github.com/kandogu/Computer-Graphics-3D-Spider-Model/blob/main/Source/example.PNG?raw=true)
+<br>
+
 This assignment includes the following Folder and Files:
 
 Executable:
